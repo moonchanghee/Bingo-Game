@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+ 
+  </head>
+  <body>
+  <h1 id="h">빙고게임</h1>
+<table border="1" id = "table">
+    <% for(var i = 0; i< 5; i++){%> 
+      <tr class="tr">
+        <% for(var j = 0; j< 5; j++){%>
+          <th  id="<%=5*i+j%>" class = "chnum">              
+            <%= change[5*i+j] %>
+          </th>
+        <%}%>
+     </tr>
+  <%}%>
+</table>
+    <textarea name="text" id="text" cols="43" rows="12"></textarea>
+    <input type="button" value="게임 시작"  id="btn">
+    <script src="/javascripts/main.js"></script>
+  </body>
+</html>
