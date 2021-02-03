@@ -3,8 +3,8 @@
 
 
 <img src = "https://user-images.githubusercontent.com/56143212/106723686-b7ab4500-664a-11eb-8687-8a5cb37a17f5.PNG" width = "600" height = "400"><img>
-방에 입장할때마다 랜덤으로 숫자를 배치시키고 아래 작은 텍스트창을 통해 게임결과와 클릭한 번호를 보여준다.
-게임시작 버튼을 눌러 게임을 시작한다. 
+   방에 입장할때마다 랜덤으로 숫자를 배치시키고 아래 작은 텍스트창을 통해 게임결과와 클릭한 번호를 보여준다.   
+   게임시작 버튼을 눌러 게임을 시작한다. 
 <img src = "https://user-images.githubusercontent.com/56143212/106723815-dad5f480-664a-11eb-834d-b4e90220072c.PNG" width = "600" height = "400"><img>
 번호를 클릭 시 빨간색으로 상대방과 자기자신의 빙고판에 표시가 된다.
 <img src = "https://user-images.githubusercontent.com/56143212/106723849-e3c6c600-664a-11eb-9ddb-5e15c33df41b.PNG" width = "600" height = "400"><img>
