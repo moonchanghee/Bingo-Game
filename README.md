@@ -4,3 +4,4 @@
 
 ## Information
 
+https://github.com/moonchanghee/Bingo-Game/issues/2#issue-800118128
