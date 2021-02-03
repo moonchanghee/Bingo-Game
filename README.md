@@ -3,6 +3,4 @@
 
 
 ## Information
-<img src= "https://github.com/moonchanghee/Bingo-Game/issues/2#issue-800118128">
-
-!(https://github.com/moonchanghee/Bingo-Game/issues/2#issue-800118128)
+![빙고게임1](https://user-images.githubusercontent.com/56143212/106723686-b7ab4500-664a-11eb-8687-8a5cb37a17f5.PNG)
